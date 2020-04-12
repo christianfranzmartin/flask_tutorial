@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8bc64ff-ef18-4f7b-a600-de5a3f0bc7a6" name="Default Changelist" comment="" />
+    <list default="true" id="c8bc64ff-ef18-4f7b-a600-de5a3f0bc7a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/logs/web_app.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/3e271937729a_migrate_one_more_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/b7a580904fab_added_followers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/app.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/user.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aAKpsJBsR3CxOBUyErqHPsBwsp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,9 +56,10 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="229" y="75" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1586238178073" />
-    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1586175045449">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="385" y="175" width="670" height="680" key="search.everywhere.popup" timestamp="1586670904520">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="385" y="174" width="670" height="676" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1586175045449" />
+    <state x="385" y="175" width="670" height="680" key="search.everywhere.popup/0.23.1440.831@0.23.1440.831" timestamp="1586670904520" />
   </component>
 </project>
