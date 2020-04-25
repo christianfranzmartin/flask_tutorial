@@ -48,10 +48,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="454" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587358279417">
+    <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587817415248">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="454" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1587358279417" />
+    <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1587817415248" />
+    <state x="454" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587800567879">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="454" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1587800567879" />
     <state x="458" y="190" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587358470284">
       <screen x="0" y="23" width="1440" height="827" />
     </state>

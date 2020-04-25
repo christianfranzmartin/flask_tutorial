@@ -35,6 +35,10 @@ nosetests.xml
 .project
 .pydevproject
 
+# files with environment variables
+.env
+.flaskenv
+
 venv
 app.db
 microblog.log*
