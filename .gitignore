@@ -41,6 +41,7 @@ nosetests.xml
 
 venv
 app.db
+.idea
 microblog.log*
 © 2020 GitHub, Inc.
 Terms
