@@ -47,3 +47,6 @@ microblog.log*
 Terms
 Privacy
 Sec
+
+# Redis dump files
+dump.rdb
